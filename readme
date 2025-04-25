@@ -1,0 +1,12 @@
+/css
+|-- base.css       # Base styles (resets, global styles)
+|-- typography.css # Typography utilities (font sizes, weights, etc.)
+|-- colors.css     # Color utilities (text colors, background colors)
+|-- spacing.css    # Margin and padding utilities
+|-- layout.css     # Flexbox, grid, positioning utilities
+|-- components.css # Reusable components (buttons, cards, etc.)
+|-- utilities.css  # Miscellaneous utilities (shadows, borders, etc.)
+|-- your-library.css # The compiled single CSS file
+
+yes I 
+
