@@ -163,26 +163,634 @@
 }
 .bg-wist-1000
 {
-    background-color: #4a235a;
+    background-color: #d2b4de;
+}
+/***===============Belize hole========= **/
+.bg-belzi-100
+{
+    background-color: #eaf2f8;
+}
+.bg-belzi-200
+{
+    background-color: #d4e6f1;
+}
+.bg-belzi-300
+{
+    background-color: #a9cce3;
+}
+.bg-belzi-400
+{
+    background-color: #7fb3d5;
+}
+.bg-belzi-500
+{
+    background-color: #5499c7;
+}
+.bg-belzi-600
+{
+    background-color: #2980b9;
+}
+.bg-belzi-700
+{
+    background-color: #2471a3;
+}
+.bg-belzi-800
+{
+    background-color: #1f618d;
+}
+.bg-belzi-900
+{
+    background-color: #1a5276;
+}
+.bg-belzi-1000
+{
+    background-color: #154360;
+}
+/**=========Peter river============**/
+.bg-pet-100
+{
+    background-color: #ebf5fb;
+}
+.bg-pet-200
+{
+    background-color: #d6eaf8;
+}
+.bg-pet-300
+{
+    background-color: #aed6f1;
+}
+.bg-pet-400
+{
+    background-color: #85c1e9;
+}
+.bg-pet-500
+{
+    background-color: #5dade2;
+}
+.bg-pet-600
+{
+    background-color: #3498db;
+}
+.bg-pet-700
+{
+    background-color: #2e86c1;
+}
+.bg-pet-800
+{
+    background-color: #2874a6;
+}
+.bg-pet-900
+{
+    background-color: #21618c;
+}
+.bg-pet-1000
+{
+    background-color: #1b4f72;
+}
+/**====Turquoise===*/
+.bg-turq-100
+{
+    background-color: #e8f8f5;
+}
+.bg-turq-200
+{
+    background-color: #d1f2eb;
+}
+.bg-turq-300
+{
+    background-color: #a3e4d7;
+}
+.bg-turq-400
+{
+    background-color: #76d7c4;
+}
+.bg-turq-500
+{
+    background-color: #48c9b0;
+}
+.bg-turq-600
+{
+    background-color: #1abc9c;
+}
+.bg-turq-700
+{
+    background-color: #17a589;
+}
+.bg-turq-800
+{
+    background-color: #148f77;
+}
+.bg-turq-900
+{
+    background-color: #117864;
+}
+.bg-turq-1000
+{
+    background-color: #0e6251;
+}
+/**==========Green Sea============**/
+.bg-seagreen-100
+{
+    background-color: #e8f6f3;
+}
+.bg-seagreen-200
+{
+    background-color: #d0ece7;
+}
+.bg-seagreen-300
+{
+    background-color: #a2d9ce;
+}
+.bg-seagreen-400
+{
+    background-color: #73c6b6;
+}
+.bg-seagreen-500
+{
+    background-color: #45b39d;
+}
+.bg-seagreen-600
+{
+    background-color: #e8f6f3;
+}
+.bg-seagreen-700
+{
+    background-color: #138d75;
+}
+.bg-seagreen-800
+{
+    background-color: #117a65;
+}
+.bg-seagreen-900
+{
+    background-color: #0e6655;
+}
+.bg-seagreen-1000
+{
+    background-color: #0b5345;
+}
+/*===============Nephritis==================*/
+.bg-nep-100
+{
+    background-color: #e9f7ef;
+}
+.bg-nep-200
+{
+    background-color: #d4efdf;
+}
+.bg-nep-300
+{
+    background-color: #a9dfbf;
+}
+.bg-nep-400
+{
+    background-color: #7dcea0;
+}
+.bg-nep-500
+{
+    background-color: #52be80;
+}
+.bg-nep-600
+{
+    background-color: #27ae60;
+}
+.bg-nep-700
+{
+    background-color: #229954;
+}
+.bg-nep-800
+{
+    background-color: #1e8449;
+}
+.bg-nep-900
+{
+    background-color: #196f3d;
+}
+.bg-nep-1000
+{
+    background-color: #145a32;
+}
+/**==========Emerald=========**/
+.bg-emerald-100
+{
+    background-color: #eafaf1;
+}
+.bg-emerald-200
+{
+    background-color: #d5f5e3;
+}
+.bg-emerald-300
+{
+    background-color: #abebc6;
+}
+.bg-emerald-400
+{
+    background-color: #82e0aa;
+}
+.bg-emerald-500
+{
+    background-color: #58d68d;
+}
+.bg-emerald-600
+{
+    background-color: #2ecc71;
+}
+.bg-emerald-700
+{
+    background-color: #28b463;
+}
+.bg-emerald-800
+{
+    background-color: #239b56;
+}
+.bg-emerald-900
+{
+    background-color: #1d8348;
+}
+.bg-emerald-1000
+{
+    background-color: #186a3b;
+}
+/**===============Sunflower====================**/
+.bg-sun-100
+{
+    background-color: #fef9e7;
+}
+.bg-sun-200
+{
+    background-color: #fcf3cf;
+}
+.bg-sun-300
+{
+    background-color: #f9e79f;
+}
+.bg-sun-400
+{
+    background-color: #f7dc6f;
+}
+.bg-sun-500
+{
+    background-color: #f4d03f;
+}
+.bg-sun-600
+{
+    background-color: #f1c40f;
+}
+.bg-sun-700
+{
+    background-color: #d4ac0d;
+}
+.bg-sun-800
+{
+    background-color: #b7950b;
+}
+.bg-sun-900
+{
+    background-color: #9a7d0a;
+}
+.bg-sun-1000
+{
+    background-color: #7d6608;
+}
+/**========== Orange ========**/
+.bg-orange-100
+{
+    background-color: #fef5e7;
+}
+.bg-orange-200
+{
+    background-color: #fdebd0;
+}
+.bg-orange-300
+{
+    background-color: #fad7a0;
+}
+.bg-orange-400
+{
+    background-color: #f8c471;
+}
+.bg-orange-500
+{
+    background-color: #f5b041;
+}
+.bg-orange-600
+{
+    background-color: #f39c12;
+}
+.bg-orange-700
+{
+    background-color: #d68910;
+}
+.bg-orange-800
+{
+    background-color: #b9770e;
+}
+.bg-orange-900
+{
+    background-color: #9c640c;
+}
+.bg-orange-1000
+{
+    background-color: #7e5109;
+}
+/**============= Carrot ===============**/
+.bg-caret-100
+{
+    background-color: #fdf2e9;
+}
+.bg-caret-200
+{
+    background-color: #fae5d3;
+}
+.bg-caret-300
+{
+    background-color: #f5cba7;
+}
+.bg-caret-400
+{
+    background-color: #f0b27a;
+}
+.bg-caret-500
+{
+    background-color: #eb984e;
+}
+.bg-caret-600
+{
+    background-color: #e67e22;
+}
+.bg-caret-700
+{
+    background-color: #ca6f1e;
+}
+.bg-caret-800
+{
+    background-color: #af601a;
+}
+.bg-caret-900
+{
+    background-color: #935116;
+}
+.bg-caret-1000
+{
+    background-color: #784212;
+}
+/**============ Pumpkin ============*/
+.bg-pump-100
+{
+    background-color: #fbeee6;
+}
+.bg-pump-200
+{
+    background-color: #f6ddcc;
+}
+.bg-pump-300
+{
+    background-color: #edbb99;
+}
+.bg-pump-400
+{
+    background-color: #e59866;
+}
+.bg-pump-500
+{
+    background-color: #dc7633;
+}
+.bg-pump-600
+{
+    background-color: #d35400;
+}
+.bg-pump-700
+{
+    background-color: #ba4a00;
+}
+.bg-pump-800
+{
+    background-color: #a04000;
+}
+.bg-pump-900
+{
+    background-color: #873600;
+}
+.bg-pump-1000
+{
+    background-color: #6e2c00;
+}
+/**========== Clouds ================**/
+.bg-cloud-100
+{
+    background-color: #ecf0f1;
+}
+.bg-cloud-200
+{
+    background-color: #d0d3d4;
+}
+.bg-cloud-300
+{
+    background-color: #b3b6b7;
+}
+.bg-cloud-400
+{
+    background-color: #979a9a;
+}
+.bg-cloud-500
+{
+    background-color: #7b7d7d;
+}
+/**========= Silver =============**/
+.bg-silver-100
+{
+    background-color: #e5e7e9;
+}
+.bg-silver-200
+{
+    background-color: #d7dbdd;
+}
+.bg-silver-300
+{
+    background-color: #cacfd2;
+}
+.bg-silver-400
+{
+    background-color: #bdc3c7;
+}
+.bg-silver-500
+{
+    background-color: #a6acaf;
+}
+.bg-silver-600
+{
+    background-color: #909497;
+}
+.bg-silver-700
+{
+    background-color: #797d7f;
+}
+.bg-silver-800
+{
+    background-color: #626567;
+}
+/**======== Concrete =========**/
+.bg-concrete-100
+{
+    background-color: #f4f6f6;
+}
+.bg-concrete-200
+{
+    background-color: #eaeded;
+}
+.bg-concrete-300
+{
+    background-color: #d5dbdb;
+}
+.bg-concrete-400
+{
+    background-color: #bfc9ca;
+}
+.bg-concrete-500
+{
+    background-color: #aab7b8;
+}
+.bg-concrete-600
+{
+    background-color: #95a5a6;
+}
+.bg-concrete-700
+{
+    background-color: #839192;
+}
+.bg-concrete-800
+{
+    background-color: #717d7e;
+}
+.bg-concrete-900
+{
+    background-color: #5f6a6a;
+}
+.bg-concrete-1000
+{
+    background-color: #4d5656;
+}
+/**========== Asbestos ============**/
+.bg-asbe-100
+{
+    background-color: #f2f4f4;
+}
+.bg-asbe-200
+{
+    background-color: #e5e8e8;
+}
+.bg-asbe-300
+{
+    background-color: #ccd1d1;
+}
+.bg-asbe-400
+{
+    background-color: #b2babb;
+}
+.bg-asbe-500
+{
+    background-color: #99a3a4;
+}
+.bg-asbe-600
+{
+    background-color: #7f8c8d;
+}
+.bg-asbe-700
+{
+    background-color: #707b7c;
+}
+.bg-asbe-800
+{
+    background-color: #616a6b;
+}
+.bg-asbe-900
+{
+    background-color: #515a5a;
+}
+.bg-asbe-1000
+{
+    background-color: #424949;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/**============= Wet asphalt =============**/
+.bg-asphalt-100
+{
+    background-color: #ebedef;
+}
+.bg-asphalt-200
+{
+    background-color: #d6dbdf;
+}
+.bg-asphalt-300
+{
+    background-color: #aeb6bf;
+}
+.bg-asphalt-400
+{
+    background-color: #85929e;
+}
+.bg-asphalt-500
+{
+    background-color: #5d6d7e;
+}
+.bg-asphalt-600
+{
+    background-color: #34495e;
+}
+.bg-asphalt-700
+{
+    background-color: #2e4053;
+}
+.bg-asphalt-800
+{
+    background-color: #283747;
+}
+.bg-asphalt-900
+{
+    background-color: #212f3c;
+}
+.bg-asphalt-1000
+{
+    background-color: #1b2631;
+}
+/**======== Midnight blue =============**/
+.bg-nightblue-100
+{
+    background-color: #eaecee;
+}
+.bg-nightblue-200
+{
+    background-color: #d5d8dc;
+}
+.bg-nightblue-300
+{
+    background-color: #abb2b9;
+}
+.bg-nightblue-400
+{
+    background-color: #808b96;
+}
+.bg-nightblue-500
+{
+    background-color: #566573;
+}
+.bg-nightblue-600
+{
+    background-color: #2c3e50;
+}
+.bg-nightblue-700
+{
+    background-color: #273746;
+}
+.bg-nightblue-800
+{
+    background-color: #212f3d;
+}
+.bg-nightblue-900
+{
+    background-color: #1c2833;
+}
+.bg-nightblue-1000
+{
+    background-color: #17202a;
+}
